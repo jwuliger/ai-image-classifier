@@ -1,0 +1,20 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "efficientnet",
+        "imagenet",
+        "keras",
+        "kimage",
+        "lemmatize",
+        "Lemmatizer",
+        "nltk",
+        "padx",
+        "pady",
+        "preds",
+        "topdown",
+        "wordnet"
+    ]
+}
